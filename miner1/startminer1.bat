@@ -1,0 +1,1 @@
+geth --identity "miner1" --networkid 39600518 --datadir "c:\ChainSkills\miner1" --nodiscover --rpc --rpcport "8545" --port "30313" --unlock 0 --password C:\ChainSkills\miner1\password.sec --ipcpath "\%APPDATA%\Ethereum\geth.ipc"

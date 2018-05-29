@@ -1,0 +1,1 @@
+geth attach ipc:\\.\pipe//C:/Users/audrey.dupont/AppData/Roaming/Ethereum/geth.ipc
